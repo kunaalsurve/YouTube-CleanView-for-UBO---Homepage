@@ -6,8 +6,16 @@
 ! Expires: 12 hours (update frequency)
 ! Please report any unwanted elements or issues via 'Issues'.
 
-www.youtube.com##.ytd-rich-grid-renderer.style-scope
-www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
-www.youtube.com##.ytd-topbar-menu-button-renderer.style-scope > .yt-spec-icon-shape.yt-icon.style-scope.yt-icon-shape > div
+! youtube sign in button
+www.youtube.com##.ytd-topbar-menu-button-renderer.style-scope > .yt-spec-icon-shape.yt-icon.style-scope.yt-icon-shape
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
+
+! thumbnails 
+www.youtube.com##.grid-disabled.grid.ytd-browse.style-scope > .ytd-two-column-browse-results-renderer.style-scope
+
+! left bar and three lines button
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com###guide-button > .yt-icon-button.style-scope
+
+! mic button
 www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
