@@ -1,0 +1,13 @@
+! Title: YouTube CleanView for UBO – HomePage
+! Author: Kunal
+! Description: A refined uBlock Origin filterlist that removes unnecessary clutter from YouTube Homepage.
+! Version: 1.0.0
+! Last modified: 24/02/2025
+! Expires: 12 hours (update frequency)
+! Please report any unwanted elements or issues via 'Issues'.
+
+www.youtube.com##.ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com##.ytd-topbar-menu-button-renderer.style-scope > .yt-spec-icon-shape.yt-icon.style-scope.yt-icon-shape > div
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
+www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
