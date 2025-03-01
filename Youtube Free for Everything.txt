@@ -1,4 +1,5 @@
-NO Thumbnails and Ad extensions (Self Made)
+! Title: Kunal's NSFW Blocklist
+! Description: A comprehensive blocklist for NSFW content, including adult sites, explicit material, and unwanted domains.
 
 THUMBNAIL BLOCK
 m.youtube.com##.feed-item > ytm-media-item > .media-item-thumbnail-container
