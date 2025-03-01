@@ -34,6 +34,5 @@ AD BLOCKER
 ||ytimg.com^*/new_watch_background.jpg?$domain=youtube.com
 ||ytimg.com^/new_watch_background_.jpg?$domain=youtube.com
 ||ytimg.com^*_banner$domain=youtube.com
-||i9.ytimg.com^
 ||2mdn.net^$object-subrequest,third-party,domain=youtube.com
 reklama$domain=~youtube.com
