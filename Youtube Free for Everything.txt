@@ -1,5 +1,4 @@
-! Title: NO Thumbnails and Ad extensions (Self Made)
-----------------------
+NO Thumbnails and Ad extensions (Self Made)
 
 THUMBNAIL BLOCK
 m.youtube.com##.feed-item > ytm-media-item > .media-item-thumbnail-container
