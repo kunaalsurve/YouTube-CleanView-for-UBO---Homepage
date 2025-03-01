@@ -1,3 +1,5 @@
+! Title: uBlock filters
+----------------------
 
 THUMBNAIL BLOCK
 m.youtube.com##.feed-item > ytm-media-item > .media-item-thumbnail-container
