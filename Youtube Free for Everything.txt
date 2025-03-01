@@ -1,4 +1,4 @@
-! Title: uBlock filters
+! Title: NO Thumbnails and Ad extensions
 ----------------------
 
 THUMBNAIL BLOCK
@@ -13,6 +13,15 @@ m.youtube.com##.chip-bar-contents
 
 PROFILE PICTURE
 m.youtube.com##ytm-channel-thumbnail-with-link-renderer
+
+UBO filters
+||doubleclick.net/instream/ad_status.js^$script,redirect-rule=doubleclick_instream_ad_status.js:5
+||doubleclick.net^
+||doubleclick.net^$xhr,redirect-rule=noop.txt
+||play.google.com/log
+||youtube.com/api/stats/qoe?
+||youtube.com/ptracking?
+||youtube.com/youtubei/v1/log_event?
 
 AD BLOCKER
 youtube.com##.ad-container
