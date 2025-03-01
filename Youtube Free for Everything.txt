@@ -13,8 +13,6 @@ PROFILE PICTURE
 m.youtube.com##ytm-channel-thumbnail-with-link-renderer
 
 AD BLOCKER
-@@||youtube.com##+js(nano-stb, ytp-inline-preview-ui)
-@@||youtube.com##.ytp-inline-preview-ui
 @@||youtube.com/yt/advertise/medias/images/$image
 @@||youtube.com/yt/css/*-advertise.css
 @@||youtube.com/yt/js/www-advertise.min.js$domain=youtube.com
