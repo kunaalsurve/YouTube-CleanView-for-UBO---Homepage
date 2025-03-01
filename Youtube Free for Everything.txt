@@ -12,7 +12,45 @@ m.youtube.com##.chip-bar-contents
 PROFILE PICTURE
 m.youtube.com##ytm-channel-thumbnail-with-link-renderer
 
+AD BLOCKER (AI Gen)
+www.youtube.com##.ytp-inline-preview-ui
+||i9.ytimg.com^
+youtube.com##+js(nano-stb, ytp-inline-preview-ui)
+
 AD BLOCKER
+youtube.com##.ad-container
+youtube.com###player-ads
+youtube.com##.ytp-ad-overlay-container
+youtube.com#@#.overlay-ads
+youtube.com#@#.ddb
+youtube.com###feed-pyv-container
+youtube.com###feedmodule-PRO
+youtube.com###homepage-chrome-side-promo
+youtube.com###merch-shelf
+youtube.com###pla-shelf
+youtube.com###premium-yva
+youtube.com###search-pva
+youtube.com###shelf-pyv-container
+youtube.com###video-masthead
+youtube.com###watch-branded-actions
+youtube.com###watch-buy-urls
+youtube.com###watch-channel-brand-div
+youtube.com##.carousel-offer-url-container
+youtube.com##.promoted-videos
+youtube.com##.searchView.list-view
+youtube.com##.watch-extra-info-column
+youtube.com##.watch-extra-info-right
+youtube.com##.ytd-merch-shelf-renderer
+youtube.com##.ytd-search-pyv-renderer
+youtube.com##YTM-PROMOTED-VIDEO-RENDERER
+youtube.com##.list-view[style="margin: 7px 0pt;"]
+youtube.com##.searchView.list-view
+youtube.com##a[href^="http://www.youtube.com/cthru?"]
+youtube.com##.ytp-ad-progress
+youtube.com##.ytp-ad-progress-list
+youtube.com###ad-image\:22
+youtube.com##.ytd-action-companion-ad-renderer
+youtube.com##.ytp-ad-text-overlay:nth-of-type(1)
 @@||youtube.com/yt/advertise/medias/images/$image
 @@||youtube.com/yt/css/*-advertise.css
 @@||youtube.com/yt/js/www-advertise.min.js$domain=youtube.com
