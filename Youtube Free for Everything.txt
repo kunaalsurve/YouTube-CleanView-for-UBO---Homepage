@@ -1,4 +1,4 @@
-! Title: NO Thumbnails and Ad extensions
+! Title: NO Thumbnails and Ad extensions (Self Made)
 ----------------------
 
 THUMBNAIL BLOCK
